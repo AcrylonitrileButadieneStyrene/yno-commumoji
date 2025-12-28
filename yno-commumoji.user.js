@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YNO Commumoji
 // @match       *://ynoproject.net/*
-// @version     0.1.2
+// @version     0.1.3
 // @description Unofficial community created emojis for YNO
 // @noframes
 // @grant       GM_registerMenuCommand
@@ -17,10 +17,12 @@ const maxAge = 86400000; // 1 day
 async function fetchConfiguration() {
     const cache = await unsafeWindow.caches.open("yno-commumoji");
     const cached = await cache.match(configUrl);
-    const cachedDate = new Date(cached.headers.get("Date"));
-    if (cached && new Date() - cachedDate < maxAge) {
-        updateStatus(date);
-        return await cached.text();
+    if (cached) {
+        const cachedDate = new Date(cached.headers.get("Date"))
+        if (new Date() - cachedDate < maxAge) {
+            updateStatus(cache, cachedDate);
+            return await cached.text();
+        }
     }
 
     const response = await fetch(configUrl);
@@ -39,13 +41,13 @@ async function fetchConfiguration() {
         date = new Date();
 
     headers.set("Date", date.toUTCString());
-    updateStatus(date);
+    updateStatus(cache, date);
 
     await cache.put(configUrl, new Response(text, { status, statusText, headers }));
     return text;
 }
 
-function updateStatus(date) {
+function updateStatus(cache, date) {
     GM_unregisterMenuCommand("last-updated");
     GM_registerMenuCommand(
         "Last updated: " + date.toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit', }),
@@ -72,7 +74,7 @@ const ynomojis = new Promise(res => {
 });
 
 let enqueuedConfiguration;
-(async function updateConfiguration() {
+async function updateConfiguration() {
     const config = (await fetchConfiguration()).split("\n")
         .map(line => line.split(","))
         .filter(pairs => pairs.length == 2)
@@ -82,7 +84,8 @@ let enqueuedConfiguration;
 
     if (!ready) enqueuedConfiguration = config;
     else applyConfig(await ynomojis, config);
-})();
+};
+updateConfiguration();
 
 ynomojis.then(ynomojiConfig => {
     if (enqueuedConfiguration) {
