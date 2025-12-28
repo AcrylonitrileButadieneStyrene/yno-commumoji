@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YNO Commumoji
 // @match       *://ynoproject.net/*
-// @version     0.1.1
+// @version     0.1.2
 // @description Unofficial community created emojis for YNO
 // @noframes
 // @grant       GM_registerMenuCommand
@@ -17,14 +17,19 @@ const maxAge = 86400000; // 1 day
 async function fetchConfiguration() {
     const cache = await unsafeWindow.caches.open("yno-commumoji");
     const cached = await cache.match(configUrl);
-    if (cached && new Date() - new Date(cached.headers.get("Date")) < maxAge)
+    const cachedDate = new Date(cached.headers.get("Date"));
+    if (cached && new Date() - cachedDate < maxAge) {
+        updateStatus(date);
         return await cached.text();
+    }
 
     const response = await fetch(configUrl);
     const status = response.status;
     const statusText = response.statusText;
-    if (status >= 400)
+    if (status >= 400) {
+        alert(`An issue occurred with loading the ynocommumoji configuration: ${status} (${statusText})`);
         throw statusText;
+    }
     const headers = new Headers(response.headers);
     const text = await response.text();
 
@@ -34,7 +39,13 @@ async function fetchConfiguration() {
         date = new Date();
 
     headers.set("Date", date.toUTCString());
+    updateStatus(date);
 
+    await cache.put(configUrl, new Response(text, { status, statusText, headers }));
+    return text;
+}
+
+function updateStatus(date) {
     GM_unregisterMenuCommand("last-updated");
     GM_registerMenuCommand(
         "Last updated: " + date.toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit', }),
@@ -44,9 +55,6 @@ async function fetchConfiguration() {
         },
         { id: "last-updated" }
     );
-
-    await cache.put(configUrl, new Response(text, { status, statusText, headers }));
-    return text;
 }
 
 let ready = false;
