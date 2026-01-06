@@ -22,4 +22,5 @@ Unofficial community created emojis for [YNO](ynoproject.net)
     Do not do this too often or you will be rate-limited.
 
 ## Contributing
+Explicit permission must be granted by the original artist for a commumoji to be created. Submitting as a ynomoji does not implicitly grant permission for it to become a commumoji.
 
