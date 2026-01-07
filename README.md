@@ -29,7 +29,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 - Create a pull request that adds your image to the `assets` folder, and adds the appropriate information to `config.csv`.  
 - The image link will be `https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/EMOJINAME.png`.
    - Replace `EMOJINAME` with the filename of your Commumoji. This name is also what will be used to send your Commumoji in chat.
-   - Your Commumoji name should follow this format: :-[Character][Action][VersionNumber]:. If the version number is 1, it can be omitted. `-MadoGrill2` or `:-penguiBall` for example.
+   - Your Commumoji name should follow this format: :-[character][Action][VersionNumber]:. If the version number is 1, it can be omitted. `-madoGrill2` or `:-penguiBall` for example.
 
 
 ### Ask Goobert
@@ -41,3 +41,22 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 - All Commumoji submissions must follow [YNO's](https://ynoproject.net) rules and be appropriate for it's audience. (No NSFW, No politics, etc.)
 -  All Commumoji submissions must be related to Yume Nikki or it's fangames. Content relating to games not on [YNO's](https://ynoproject.net) may be rejected.
 - Submissions should Ideally be a 1:1 aspect ratio (128x128, 256x256, etc.) have a transparent background, be a .PNG or .GIF, and be readable when small.
+
+# Commumoji List
+**fluoSad2** by topHat  <br>
+<img width="122" height="120" alt="fluoSad2" src="https://github.com/user-attachments/assets/e6ee8b9b-af6d-462b-8d0c-5e50ef7b26fd">
+
+**madoGrill2** By tophat <br>
+<img width="122" height="120" alt="madoGrill2" src="https://github.com/user-attachments/assets/18dafd78-9fc9-40e1-8cab-0fc854751611">
+
+**penguiBall** By nitran <br>
+<img width="122" height="120" alt="penguiBall" src="https://github.com/user-attachments/assets/359557a8-090c-436f-86cf-754d3de2a222">
+
+**penguiNom** By goobert <br>
+<img width="122" height="120" alt="penguiNom" src="https://github.com/user-attachments/assets/e9f0e6c6-a0fc-431b-8a59-3f623864f48e">
+
+**penguiRoll** By nitran <br>
+<img width="122" height="120" alt="penguiRoll" src="https://github.com/user-attachments/assets/8e86360d-ea31-40b2-b618-22608536f28a">
+
+**uroShocked2** By tophat <br>
+<img width="122" height="120" alt="uroShocked2" src="https://github.com/user-attachments/assets/1f6111d3-4730-41ed-b339-331dfbc92621">
