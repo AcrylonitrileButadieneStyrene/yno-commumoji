@@ -44,19 +44,19 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 
 # Commumoji List
 **fluoSad2** by topHat  <br>
-<img width="122" height="120" alt="fluoSad2" src="https://github.com/user-attachments/assets/e6ee8b9b-af6d-462b-8d0c-5e50ef7b26fd">
+<img width="122" height="120" alt="fluoSad2" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/fluoSad.png">
 
 **madoGrill2** By tophat <br>
-<img width="122" height="120" alt="madoGrill2" src="https://github.com/user-attachments/assets/18dafd78-9fc9-40e1-8cab-0fc854751611">
+<img width="122" height="120" alt="madoGrill2" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/madoGrill2.gif">
 
 **penguiBall** By nitran <br>
-<img width="122" height="120" alt="penguiBall" src="https://github.com/user-attachments/assets/359557a8-090c-436f-86cf-754d3de2a222">
+<img width="122" height="120" alt="penguiBall" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall.png">
 
 **penguiNom** By goobert <br>
-<img width="122" height="120" alt="penguiNom" src="https://github.com/user-attachments/assets/e9f0e6c6-a0fc-431b-8a59-3f623864f48e">
+<img width="122" height="120" alt="penguiNom" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiNom.png">
 
 **penguiRoll** By nitran <br>
-<img width="122" height="120" alt="penguiRoll" src="https://github.com/user-attachments/assets/8e86360d-ea31-40b2-b618-22608536f28a">
+<img width="122" height="120" alt="penguiRoll" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiRoll.gif">
 
 **uroShocked2** By tophat <br>
-<img width="122" height="120" alt="uroShocked2" src="https://github.com/user-attachments/assets/1f6111d3-4730-41ed-b339-331dfbc92621">
+<img width="122" height="120" alt="uroShocked2" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/uroShocked2.png">
