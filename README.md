@@ -16,11 +16,47 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 ## Usage
 - Commumojis start with a `-` in their names (e.g. `:-emoji:`)
   to not cause collisions in the future and to indicate them as 3rd party
-- The list of commumojis tries to update daily.
+- The list of Commumojis tries to update daily.
 - The last update time can be seen inside of the userscript manager's extension UI.
   - Clicking on it will force a refresh.
     Do not do this too often or you will be rate-limited.
+- Only you and other players with the script installed can see the Commumojis!
 
-## Contributing
-Explicit permission must be granted by the original artist for a commumoji to be created. Submitting as a ynomoji does not implicitly grant permission for it to become a commumoji.
+![ezgif-8cf4db1d99522a90](https://github.com/user-attachments/assets/a4e59762-adb8-4de3-8822-5dfe683725bb)
 
+## How to Contribute
+### Pull Requests
+- Create a pull request that adds your image to the `assets` folder, and adds the appropriate information to `config.csv`.  
+- The image link will be `https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/EMOJINAME.png`.
+   - Replace `EMOJINAME` with the filename of your Commumoji. This name is also what will be used to send your Commumoji in chat.
+   - Your Commumoji name should follow this format: :-[character][Action][VersionNumber]:. If the version number is 1, it can be omitted. `-madoGrill2` or `:-penguiBall` for example.
+
+
+### Ask Goobert
+- If you do not know how or want to make a pull request, you can DM `goobertgum` on discord with the appropriate information and they will add it for you. 
+<sub> (If you are in the <3 Discord server, you can ping them in the #suggestions channel.)<sub>
+
+## Contributing Guidelines
+- Explicit permission must be granted by the original artist for a commumoji to be created. Submitting as a ynomoji does not implicitly grant permission for it to become a commumoji.
+- All Commumoji submissions must follow [YNO's](https://ynoproject.net) rules and be appropriate for it's audience. (No NSFW, No politics, etc.)
+-  All Commumoji submissions must be related to Yume Nikki or it's fangames. Content relating to games not on [YNO's](https://ynoproject.net) may be rejected.
+- Submissions should Ideally be a 1:1 aspect ratio (128x128, 256x256, etc.) have a transparent background, be a .PNG or .GIF, and be readable when small.
+
+# Commumoji List
+**fluoSad2** by topHat  <br>
+<img width="122" height="120" alt="fluoSad2" src="https://github.com/user-attachments/assets/e6ee8b9b-af6d-462b-8d0c-5e50ef7b26fd">
+
+**madoGrill2** By tophat <br>
+<img width="122" height="120" alt="madoGrill2" src="https://github.com/user-attachments/assets/18dafd78-9fc9-40e1-8cab-0fc854751611">
+
+**penguiBall** By nitran <br>
+<img width="122" height="120" alt="penguiBall" src="https://github.com/user-attachments/assets/359557a8-090c-436f-86cf-754d3de2a222">
+
+**penguiNom** By goobert <br>
+<img width="122" height="120" alt="penguiNom" src="https://github.com/user-attachments/assets/e9f0e6c6-a0fc-431b-8a59-3f623864f48e">
+
+**penguiRoll** By nitran <br>
+<img width="122" height="120" alt="penguiRoll" src="https://github.com/user-attachments/assets/8e86360d-ea31-40b2-b618-22608536f28a">
+
+**uroShocked2** By tophat <br>
+<img width="122" height="120" alt="uroShocked2" src="https://github.com/user-attachments/assets/1f6111d3-4730-41ed-b339-331dfbc92621">
