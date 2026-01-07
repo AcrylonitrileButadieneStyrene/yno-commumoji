@@ -20,7 +20,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 - The last update time can be seen inside of the userscript manager's extension UI.
   - Clicking on it will force a refresh.
     Do not do this too often or you will be rate-limited.
-- Only you and other players with the script installed will be able to see the Commumojis!
+- **Only you and other players with the script installed will be able to see the Commumojis!**
 
 ![ezgif-8cf4db1d99522a90](https://github.com/user-attachments/assets/a4e59762-adb8-4de3-8822-5dfe683725bb)
 
@@ -29,11 +29,11 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 ### Option 1: Pull Request
 1. Fork the repository by clicking the fork button
 2. Navigate into the `assets` folder and upload the emoji's image file.
-  - Once your submission is accepted, it will be accessible at `https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/FILE.EXT`.
+    - Once your submission is accepted, it will be accessible at `https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/FILE.EXT`.
 3. Edit the `config.csv` file to have a new entry.
-  - The format for entries in the config is `name,url`, where `name` is what will be used in chat and `url` is where the image will be loaded from.
-    - The name should follow this format: :-[character][Action][VersionNumber]:. If the version number is 1, it can be omitted. For example, `-madoGrill2` and `:-penguiBall`.
-    - The url should be the `jsdelivr` link from above. Other services will not be accepted due to concerns of security and availability.
+    - The format for entries in the config is `name,url`, where `name` is what will be used in chat and `url` is where the image will be loaded from.
+      - The name should follow this format: :-[character][Action][VersionNumber]:. If the version number is 1, it can be omitted. For example, `-madoGrill2` and `:-penguiBall`.
+      - The url should be the `jsdelivr` link from above. Other services will not be accepted due to concerns of security and availability.
 4. Create a pull request by clicking the button that shows up at the top of your fork after you have made changes.
 
 ### Option 2: Asking [@goobert](https://github.com/goobert)
