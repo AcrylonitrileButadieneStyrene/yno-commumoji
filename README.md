@@ -43,20 +43,11 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 - Submissions should Ideally be a 1:1 aspect ratio (128x128, 256x256, etc.) have a transparent background, be a .PNG or .GIF, and be readable when small.
 
 # Commumoji List
-**fluoSad2** by topHat  <br>
-<img width="122" height="120" alt="fluoSad2" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/fluoSad.png">
-
-**madoGrill2** By tophat <br>
-<img width="122" height="120" alt="madoGrill2" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/madoGrill2.gif">
-
-**penguiBall** By nitran <br>
-<img width="122" height="120" alt="penguiBall" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall.png">
-
-**penguiNom** By goobert <br>
-<img width="122" height="120" alt="penguiNom" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiNom.png">
-
-**penguiRoll** By nitran <br>
-<img width="122" height="120" alt="penguiRoll" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiRoll.gif">
-
-**uroShocked2** By tophat <br>
-<img width="122" height="120" alt="uroShocked2" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/uroShocked2.png">
+| Name | Author | Preview |
+| :---: | :---: | :---: | 
+| **fluoSad2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/fluoSad.png"> |
+| **madoGrill2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/madoGrill2.gif"> |
+| **penguiBall** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall.png"> |
+| **penguiNom** | goobert | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiNom.png"> |
+| **penguiRoll** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiRoll.gif"> |
+| **uroShocked2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/uroShocked2.png"> |
