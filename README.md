@@ -64,6 +64,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 | :---: | :---: | :---: | 
 | **fluoSad2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/fluoSad.png"> |
 | **madoGrill2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/madoGrill2.gif"> |
+| **minnaMoth** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/minnaMoth.png"> |
 | **penguiBall** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall.png"> |
 | **penguiNom** | goobert | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiNom.png"> |
 | **penguiRoll** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiRoll.gif"> |
