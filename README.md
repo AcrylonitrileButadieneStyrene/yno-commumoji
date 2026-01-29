@@ -68,6 +68,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 | **minnaMoth** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/minnaMoth.png"> |
 | **mumaBall** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/mumaBall.png"> |
 | **penguiBall** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall.png"> |
+| **penguiBall2** | tophat | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall2.png"> |
 | **penguiNom** | goobert | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiNom.png"> |
 | **penguiRoll** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiRoll.gif"> |
 | **souBaby2** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souBaby2.webp"> |
