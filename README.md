@@ -43,7 +43,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 ## Image Guidelines
 - Explicit permission must be granted by the original artist for a commumoji to be created. Submitting as a ynomoji does not implicitly grant permission for it to become a commumoji.
 - Submissions must follow [YNO's](https://ynoproject.net) rules (No NSFW, No politics, etc.) and be appropriate for its audience.
-- Submissions must be related to Yume Nikki or it's fangames. Content relating to games not on [YNO's](https://ynoproject.net) may be rejected.
+- Submissions must be related to Yume Nikki or its fangames. Content relating to games not on [YNO's](https://ynoproject.net) may be rejected.
 - Submissions should ideally:
   - Have a square aspect ratio (e.g. `128x128`, `256x256`).
   - Have a transparent background.
