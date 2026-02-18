@@ -2,11 +2,12 @@
 Unofficial community created emojis for [YNO](ynoproject.net)
 
 ## Installation
-1. Add a userscript manager extension (e.g. 
-    [ViolentMonkey](https://violentmonkey.github.io/)
-    ([Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-    / [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-    / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey)))
+1. Add a userscript manager extension:
+- [ViolentMonkey](https://violentmonkey.github.io/):
+  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey)
+  / [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
+- [TamperMonkey](https://www.tampermonkey.net/):
+  [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 2. Install [the script](https://raw.githubusercontent.com/AcrylonitrileButadieneStyrene/yno-commumoji/master/yno-commumoji.user.js)
     - Opening the link should open an installation dialog.
       
