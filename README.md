@@ -63,20 +63,36 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 -->
 | Name | Author | Preview |
 | :---: | :---: | :---: | 
+| **aBaby2** | starbits | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/aBaby2.png"> |
 | **aruFrozen** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/aruFrozen.png"> |
 | **dogboa** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/dogboa.png"> |
+| **daveCry** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/daveCry.png"> |
 | **fluoSad2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/fluoSad.png"> |
+| **irvTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/irvTiny.png"> |
+| **ladyTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/ladyTiny.png"> |
 | **madoGrill2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/madoGrill2.gif"> |
+| **madoTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/madoTiny.gif"> |
 | **midoriko** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/midoriko.png"> |
 | **minnaMoth** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/minnaMoth.png"> |
+| **minnaTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/minnaTiny.png"> |
+| **monoeWAAAH** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/monoeWAAAH.png"> |
 | **mumaBall** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/mumaBall.png"> |
+| **mumaTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/mumaTiny.png"> |
 | **nasu** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/nasu.png"> |
 | **nasuFreakout** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/nasuFreakout.png"> |
+| **nikoTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/nikoTiny.png"> |
+| **noeTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/noeTiny.png"> |
 | **penguiBall** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall.png"> |
 | **penguiBall2** | tophat | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiBall2.png"> |
 | **penguiNom** | goobert | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiNom.png"> |
 | **penguiRoll** | nitran | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/penguiRoll.gif"> |
 | **provost** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/provost.png"> |
+| **provostTiny** | Tanjunebi | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/provostTiny.png"> |
+| **sabiTiny** | Tanjunebi | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/sabiTiny.png"> |
+| **sheepie** | Tanjunebi | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/sheepie.png"> |
+| **shimiTiny** | Tanjunebi | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/shimiTiny.png"> |
+| **someTiny** | Tanjunebi | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/someTiny.png"> |
+| **someTomato** | Tanjunebi | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/someTomato.png"> |
 | **souAshBaby** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souAshBaby.png"> |
 | **souBaby2** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souBaby2.webp"> |
 | **souCigarette** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souCigarette.webp"> |
