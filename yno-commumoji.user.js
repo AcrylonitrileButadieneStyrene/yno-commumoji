@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YNO Commumoji
 // @match       *://ynoproject.net/*
-// @version     0.1.3
+// @version     0.1.4
 // @description Unofficial community created emojis for YNO
 // @noframes
 // @grant       GM_registerMenuCommand
@@ -77,7 +77,7 @@ let enqueuedConfiguration;
 async function updateConfiguration() {
     const config = (await fetchConfiguration()).split("\n")
         .map(line => line.split(","))
-        .filter(pairs => pairs.length == 2)
+        .filter(pairs => pairs.length >= 2)
         .reduce((accumulator, [key, value]) => (accumulator[key] = value, accumulator), {});
     const killswitch = config["#killswitch"];
     if (killswitch) return alert(killswitch);
