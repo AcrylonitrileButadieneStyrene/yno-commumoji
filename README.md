@@ -64,7 +64,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 | Name | Author | Preview |
 | :---: | :---: | :---: | 
 | **aBaby2** | starbits | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/aBaby2.png"> |
-| **AiSmonk** | MichiSan | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/AiSmonk.png"> |
+| **aiSmonk** | MichiSan | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/AiSmonk.png"> |
 | **aruFrozen** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/aruFrozen.png"> |
 | **dogboa** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/dogboa.png"> |
 | **daveCry** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/daveCry.png"> |
