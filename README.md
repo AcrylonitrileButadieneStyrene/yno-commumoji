@@ -69,6 +69,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 | **dogboa** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/dogboa.png"> |
 | **daveCry** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/daveCry.png"> |
 | **fluoSad2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/fluoSad.png"> |
+| **fluoSmonk2** | thatdolphin | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/fluoSmonk2.png"> |
 | **irvTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/irvTiny.png"> |
 | **ladyTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/ladyTiny.png"> |
 | **madoGrill2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/madoGrill2.gif"> |
