@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YNO Commumoji
 // @match       *://ynoproject.net/*
-// @version     0.1.4
+// @version     0.1.5
 // @description Unofficial community created emojis for YNO
 // @noframes
 // @grant       GM_registerMenuCommand
@@ -99,7 +99,7 @@ ynomojis.then(ynomojiConfig => {
 
 async function applyConfig(ynomojis, config) {
     const container = document.getElementById('ynomojiContainer');
-    for (const [key, url] of Object.entries(config)) {
+    for (const [key, url] of Object.entries(config).sort(([a], [b]) => a > b)) {
         if (ynomojis[key] == url) continue;
 
         // add the custom emoji
