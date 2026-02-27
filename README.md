@@ -99,6 +99,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 | **shimiTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/shimiTiny.png"> |
 | **someTiny** | Tanjunebi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/someTiny.png"> |
 | **someTomato** | Tanjunebi | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/someTomato.png"> |
+| **souAddict** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souAddict.png"> |
 | **souAshBaby** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souAshBaby.png"> |
 | **souBaby2** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souBaby2.webp"> |
 | **souCigarette** | starbits | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/souCigarette.webp"> |
