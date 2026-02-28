@@ -106,6 +106,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 | **surimuki** | tophat | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/surimuki.png"> |
 | **tsuba** | tophat | <img height="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/tsuba.png"> |
 | **uroShocked2** | tophat | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/uroShocked2.png"> |
+| **uroYogurt** | starbits | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/uroYogurt.png"> |
 | **wormCube** | starlitehi | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/wormCube.png"> |
 | **yukata** | starbits | <img width="128" alt="" src="https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/yukata.png"> |
 
