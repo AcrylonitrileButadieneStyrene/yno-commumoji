@@ -23,7 +23,8 @@ Unofficial community created emojis for [YNO](ynoproject.net)
     Do not do this too often or you will be rate-limited.
 - **Only you and other players with the script installed will be able to see the Commumojis!**
 
-![ezgif-8cf4db1d99522a90](https://github.com/user-attachments/assets/a4e59762-adb8-4de3-8822-5dfe683725bb)
+![ezgif-6fa27ce16e43f119](https://github.com/user-attachments/assets/a3dc1f65-3d1f-4366-9287-34e8b5547ad9)
+
 
 ## Contribution Guide
 
