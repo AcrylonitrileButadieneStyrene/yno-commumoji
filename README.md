@@ -14,6 +14,9 @@ Unofficial community created emojis for [YNO](ynoproject.net)
       If it does not then manually create a new script and paste the contents into it.
 3. Reload YNO if it is already opened
 
+
+For use in YNO Desktop, [view this script](https://gist.github.com/AcrylonitrileButadieneStyrene/14d155be4d27a5db52a2f3bc3512af72).
+
 ## Usage
 - Commumojis start with a `-` in their names (e.g. `:-emoji:`)
   to not cause collisions in the future and to indicate them as 3rd party
