@@ -61,3 +61,6 @@ For use in YNO Desktop, [view this script](https://gist.github.com/Acrylonitrile
 
 # Commumoji List
 The list of commumojis grew too long and has been moved to [this online viewer](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
+[<img width="2355" height="1047" alt="2026-03-20 12_15_21-YNO Commumojis Viewer — Mozilla Firefox" src="https://github.com/user-attachments/assets/216f9507-e563-49ea-9681-e63bb13ae464" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
+
+
