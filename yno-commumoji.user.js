@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YNO Commumoji
 // @match       *://ynoproject.net/*
-// @version     0.1.5
+// @version     0.1.6
 // @description Unofficial community created emojis for YNO
 // @noframes
 // @grant       GM_registerMenuCommand
@@ -12,6 +12,7 @@
 // ==/UserScript==
 
 const configUrl = "https://raw.githubusercontent.com/AcrylonitrileButadieneStyrene/yno-commumoji/master/config.csv";
+const baseUrl = "https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/";
 const maxAge = 86400000; // 1 day
 
 async function fetchConfiguration() {
@@ -99,7 +100,15 @@ ynomojis.then(ynomojiConfig => {
 
 async function applyConfig(ynomojis, config) {
     const container = document.getElementById('ynomojiContainer');
-    for (const [key, url] of Object.entries(config).sort(([a], [b]) => a > b)) {
+    for (let [key, url] of Object.entries(config).sort(([a], [b]) => a > b)) {
+        if (!url) url = ".png" // default to png file if empty
+        if (url.startsWith(".")) { // assume file name is emoji name
+            let file = key;
+            if (file.startsWith("-")) // remove dash prefix
+                file = file.substring(1);
+            url = baseUrl + file + url;
+        }
+        
         if (ynomojis[key] == url) continue;
 
         // add the custom emoji
