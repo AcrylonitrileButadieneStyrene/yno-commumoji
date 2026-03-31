@@ -26,7 +26,8 @@ For use in YNO Desktop, [view this script](https://gist.github.com/Acrylonitrile
     Do not do this too often or you will be rate-limited.
 - **Only you and other players with the script installed will be able to see the Commumojis!**
 
-![ezgif-6fa27ce16e43f119](https://github.com/user-attachments/assets/a3dc1f65-3d1f-4366-9287-34e8b5547ad9)
+![ezgif-1937d85479a7a615](https://github.com/user-attachments/assets/7ef09adf-d98d-446b-ae6e-7d0c145616aa)
+
 
 
 ## Contribution Guide
@@ -61,6 +62,4 @@ For use in YNO Desktop, [view this script](https://gist.github.com/Acrylonitrile
 
 # Commumoji List
 The list of commumojis grew too long and has been moved to [this online viewer](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
-[<img width="2355" height="1047" alt="2026-03-20 12_15_21-YNO Commumojis Viewer — Mozilla Firefox" src="https://github.com/user-attachments/assets/216f9507-e563-49ea-9681-e63bb13ae464" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
-
-
+[<img width="2357" height="1262" alt="2026-03-30 13_28_00-F Drive — Dolphin" src="https://github.com/user-attachments/assets/e979baa6-fa6b-44c1-995e-21df7bdd929e" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
