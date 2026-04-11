@@ -17,6 +17,8 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 
 For use in YNO Desktop, [view this script](https://gist.github.com/AcrylonitrileButadieneStyrene/14d155be4d27a5db52a2f3bc3512af72).
 
+For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/AcrylonitrileButadieneStyrene/yno-commumoji/master/pengui-commumoji.user.js).
+
 ## Usage
 - Commumojis start with a `-` in their names (e.g. `:-emoji:`)
   to not cause collisions in the future and to indicate them as 3rd party

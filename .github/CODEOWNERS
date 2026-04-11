@@ -1,4 +1,5 @@
 # This file is used for security reasons.
-/.github/CODEOWNERS     @AcrylonitrileButadieneStyrene
-/yno-commumoji.user.js  @AcrylonitrileButadieneStyrene
+/.github/CODEOWNERS        @AcrylonitrileButadieneStyrene
+/yno-commumoji.user.js     @AcrylonitrileButadieneStyrene
+/pengui-commumoji.user.js  @AcrylonitrileButadieneStyrene
 
