@@ -29,8 +29,9 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
   - Clicking on it will force a refresh.
     Do not do this too often or you will be rate-limited.
 - **Only you and other players with the script installed will be able to see the Commumojis!**
+  
+<img width="444" height="650" alt="ezgif-5f2d20ab28db38f0" src="https://github.com/user-attachments/assets/8ea61ea7-28d3-4177-8ea6-956e014b6529" />
 
-![ezgif-1937d85479a7a615](https://github.com/user-attachments/assets/7ef09adf-d98d-446b-ae6e-7d0c145616aa)
 
 ## Contribution Guide
 
@@ -64,4 +65,5 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
 
 # Commumoji List
 The list of commumojis grew too long and has been moved to [this online viewer](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
-[<img width="2357" height="1262" alt="2026-03-30 13_28_00-F Drive — Dolphin" src="https://github.com/user-attachments/assets/e979baa6-fa6b-44c1-995e-21df7bdd929e" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
+[<img width="2400" height="1095" alt="2026-05-01 12_07_57-YNO Commumojis Viewer — LibreWolf" src="https://github.com/user-attachments/assets/79c4754d-d787-48cc-8a2b-d97cffebe7cd" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
+
