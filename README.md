@@ -47,7 +47,7 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
 
 ### Option 2: Asking [@goobert](https://github.com/goobert)
 - If you do not know how to or do not want to make a pull request, you can send a message to `goobertgum` on discord with the name and image and it will be added for you.
-  - <sub>(If you are in the `<3` server (YNO group), you can ping them in the `#suggestions` channel.)<sub>
+  - <sub>(If you are in any mutual servers with them, you can ping in the server or dm them.)<sub>
 
 ## Image Guidelines
 - Explicit permission must be granted by the original artist for a commumoji to be created. Submitting as a ynomoji does not implicitly grant permission for it to become a commumoji.
