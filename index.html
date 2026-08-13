@@ -37,7 +37,7 @@
             border-radius: 16px;
         }
 
-        span {
+        span, a {
             color: oklch(80.9% 0.105 251.813);
             text-align: center;
         }
@@ -52,6 +52,19 @@
         .author {
             color: oklch(93.2% 0.032 255.585);
             font-weight: 500;
+        }
+
+        section {
+            order: 1;
+            flex-basis: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 4px;
+        }
+
+        a {
+            padding-right: 4px;
+            border-right: 1px solid white;
         }
     </style>
     <script>
@@ -94,6 +107,11 @@
             <span>by <span class="author">Author</span></span>
         </div>
     </template>
+    <section>
+        <a href="https://raw.githubusercontent.com/AcrylonitrileButadieneStyrene/yno-commumoji/master/yno-commumoji.user.js">Download</a>
+        <a href="https://github.com/AcrylonitrileButadieneStyrene/yno-commumoji">Repository</a>
+        <span>Hosted with permission from the creator(s)</span>
+    </section>
 </body>
 
 </html>
