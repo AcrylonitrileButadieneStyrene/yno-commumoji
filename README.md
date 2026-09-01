@@ -30,7 +30,8 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
     Do not do this too often or you will be rate-limited.
 - **Only you and other players with the script installed will be able to see the Commumojis!**
   
-<img width="444" height="650" alt="ezgif-5f2d20ab28db38f0" src="https://github.com/user-attachments/assets/8ea61ea7-28d3-4177-8ea6-956e014b6529" />
+<img width="1280" height="720" alt="ezgif-374f903f3c009ed4" src="https://github.com/user-attachments/assets/1b98adf8-f2c2-4834-9b6f-18647a3de10f" />
+
 
 
 ## Contribution Guide
@@ -47,7 +48,7 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
 
 ### Option 2: Asking [@goobert](https://github.com/goobert)
 - If you do not know how to or do not want to make a pull request, you can send a message to `goobertgum` on discord with the name and image and it will be added for you.
-  - <sub>(If you are in any mutual servers with them, you can ping in the server or dm them.)<sub>
+  - <sub>(If you are in any mutual servers with them, you can ping in the server or dm them. There is also a dedicated commumojis thread in the <3 discord server where you can submit.)<sub>
 
 ## Image Guidelines
 - Explicit permission must be granted by the original artist for a commumoji to be created. Submitting as a ynomoji does not implicitly grant permission for it to become a commumoji.
@@ -65,5 +66,6 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
 
 # Commumoji List
 The list of commumojis grew too long and has been moved to [this online viewer](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
-[<img width="2400" height="1095" alt="2026-05-01 12_07_57-YNO Commumojis Viewer — LibreWolf" src="https://github.com/user-attachments/assets/79c4754d-d787-48cc-8a2b-d97cffebe7cd" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
+[<img width="2559" height="1193" alt="2026-09-01 14_35_39-YNO Commumojis Viewer — LibreWolf" src="https://github.com/user-attachments/assets/cc45dc2c-2cf0-4495-9c7a-323692826f14" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
+
 
