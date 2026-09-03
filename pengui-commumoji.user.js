@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Pengui Ball Commumoji
 // @match       https://pengui-ball.jackssrt.com/*
-// @version     0.1.0
+// @version     0.1.1
 // @description Unofficial community created emojis for Pengui Ball
 // @noframes
 // @grant       GM_registerMenuCommand
@@ -76,9 +76,18 @@ async function updateConfiguration() {
     const config = (await fetchConfiguration()).split("\n")
         .map(line => line.split(","))
         .filter(pairs => pairs.length >= 2)
-        .reduce((accumulator, [key, value]) => (accumulator[key] = value, accumulator), {});
+        .reduce((accumulator, [key, ...value]) => (accumulator[key] = value, accumulator), {});
     const killswitch = config["#killswitch"];
-    if (killswitch) return alert(killswitch);
+    if (killswitch) {
+        const [psk, message] = killswitch;
+        return window.crypto.subtle.digest("SHA-256", new TextEncoder().encode(psk))
+            .then(bytes => Array.from(new Uint8Array(bytes)))
+            .then(bytes => bytes.map((item) => item.toString(16).padStart(2, "0")).join(""))
+            .then(hash => {
+                if (hash == "7b37c87f77d2d21ce05a68463af00790da34fe617ed104d6b3a24e63d13ea051")
+                    alert(killswitch)
+            });
+    }
 
     if (!ready) enqueuedConfiguration = config;
     else applyConfig(await api, config);
@@ -95,7 +104,7 @@ api.then(interface => {
 async function applyConfig(interface, config) {
     const emojis = Object.entries(config)
       .sort(([a], [b]) => a > b)
-      .map(([key, url]) => {
+      .map(([key, [url]]) => {
           if (!url) url = ".png" // default to png file if empty
           if (url.startsWith(".")) { // assume file name is emoji name
               let file = key;
