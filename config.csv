@@ -1,15 +1,15 @@
 -penguiBall,,factors
--uroShocked2,,tophat
+-uroShocked2,,tophat / treacherytophat
 -penguiRoll,.gif,factors
--fluoSad2,,tophat
--madoGrill2,.gif,tophat
--minnaMoth,,tophat
+-fluoSad2,,tophat / treacherytophat
+-madoGrill2,.gif,tophat / treacherytophat
+-minnaMoth,,tophat / treacherytophat
 -souCigarette,.webp,starbits
 -mumaBall,,starlitehi
--aruFrozen,,tophat
--penguiBall2,,tophat
+-aruFrozen,,tophat / treacherytophat
+-penguiBall2,,tophat / treacherytophat
 -nasuFreakout,,starlitehi
--tsuba,,tophat
+-tsuba,,tophat / treacherytophat
 -daveCry,,Tanjunebi
 -irvTiny,,Tanjunebi
 -ladyTiny,,Tanjunebi
@@ -24,18 +24,18 @@
 -shimiTiny,,Tanjunebi
 -someTiny,,Tanjunebi
 -aiSmonk,,MichiSan / michi_exiled
--monoeNom,,tophat
+-monoeNom,,tophat / treacherytophat
 -penguiBall3,,jackssrt
 -souAddict,,starbits
 -souMoldBaby,,starbits & goobert
--qiuGaa,,tophat
+-qiuGaa,,tophat / treacherytophat
 -penguiHeart,,factors
--shadowBikerEvil,,tophat & starbits
+-shadowBikerEvil,,tophat / treacherytophat & starbits
 -minnaFinger,,anglerfishchef
 -penguiBall4,,goobert
 -fluoHappy,,goobert
 -surimukiEyes,.webp,SamsungFridg
--tsubaNom,,tophat
+-tsubaNom,,tophat / treacherytophat
 -uroTrue,,thatdolphin
 -uroFalse,,thatdolphin
 -uroDamn,,thatdolphin
@@ -44,7 +44,7 @@
 -tsubaBaby,,MichiSan / michi_exiled
 -fluoPat,.gif,SierpinskiSi / rovertclovert
 -penguiSwing,,goobert
--tsubaScared,,tophat
+-tsubaScared,,tophat / treacherytophat
 -fluoHappyRetro,,starlitehi
 -fluoTiny,,Tanjunebi
 -kuboTiny,,Tanjunebi
@@ -58,8 +58,8 @@
 -musumeTiny,,Tanjunebi
 -uroTinyFairy,,Tanjunebi
 -sniperTooth,,umitsuki03
--noeThrow,,tophat
--aleHit,,tophat
+-noeThrow,,tophat / treacherytophat
+-aleHit,,tophat / treacherytophat
 -penguiRotateDeleted,,goobert
 -uroRainbow2,,starlitehi
 -uroEgg,.gif,goobert
@@ -69,20 +69,20 @@
 -minnaNerd,,Proton
 -minnaSalute,,Proton
 -minnaLick,.gif,Snoocola
--tsuba2,,tophat
+-tsuba2,,tophat / treacherytophat
 -penguiSpinRainbow,.webp,goobert
 -uroCool,,umitsuki03
 -vitaminwolfStanding,,umitsuki03
 -umiStare,,umitsuki03
--fluoBaby,,tophat
+-fluoBaby,,tophat / treacherytophat
 -tsubaNom2,,MichiSan / michi_exiled
 -umi,.webp,umitsuki03
 -uroChef,,pizzaguy280
 -danaeThumbsup,.gif,pizzaguy280
 -tsuba3,.webp,starlitehi
--fluoFly,,tophat
+-fluoFly,,tophat / treacherytophat
 -minnaWheeze,.jpg,NoOne12345
--fluoKarakasa2,,tophat
+-fluoKarakasa2,,tophat / treacherytophat
 -minnaEgg,,Enna
 -minnaTrue2,,Enna
 -minnaFalse2,,Enna
@@ -93,7 +93,7 @@
 -minnaYapping,.gif,Proton
 -minnaEggSalute,,Enna & Twemoji & Unknown Editor (Hand Placement by goobert)
 -oboe,,Kikiyama & Unknown Editor (Remake Edits by goobert)
--souThrow,.gif,tophat
+-souThrow,.gif,tophat / treacherytophat
 -minnaFire,,AnotherFran / friedchickenpollo
 -minnaMew,,Pho / Phrot
 -fluoPray2,,Pho / Phrot
@@ -155,11 +155,11 @@
 -souHUH,,Mystycitty (Based On mumaHUH by ghaiza24)
 -tatsHUH,,Mystycitty (Based On mumaHUH by ghaiza24)
 -uroHUH,,Mystycitty (Based On mumaHUH by ghaiza24)
--tsubaHUH,,tophat
--tsubaHUH2,,tophat
+-tsubaHUH,,tophat / treacherytophat
+-tsubaHUH2,,tophat / treacherytophat
 -tsubaBabyTornado,.gif,MichiSan / michi_exiled & Goobert
 -starSmonk,,NoOne12345
--tsubaHappy,,tophat
+-tsubaHappy,,tophat / treacherytophat
 -itsuHappy,,goobert
 -starCheese,,NoOne12345
 -starDamn1,,NoOne12345
@@ -169,12 +169,12 @@
 -starTea,,NoOne12345
 -someHappy,,starbits
 -uboaConcern,,klayfruit
--penguiBallReducedToAnAbstractConcept,,tophat
+-penguiBallReducedToAnAbstractConcept,,tophat / treacherytophat
 -sheepHappy,,Blunagi / dragonfish28
 -sheepLaugh,.gif,Blunagi / dragonfish28
 -puniDango,,Paraverdant
--tsubaShrug,,tophat
--ladyHug,,tophat
+-tsubaShrug,,tophat / treacherytophat
+-ladyHug,,tophat / treacherytophat
 -wormBuryNice,,Sometsu / sometsuki
 -ladyLOL,,sKuLly#7423
 -ladySmile,,sKuLly#7423
@@ -248,8 +248,8 @@
 -madoWega,,AnotherFran / friedchickenpollo
 -uroltigi,,AnotherFran / friedchickenpollo
 -madoBald,.gif,Kikiyama & Cauliflower / @CalefIower
--tsubaSmonk,,tophat
--tsubaSmonk2,,tophat
+-tsubaSmonk,,tophat / treacherytophat
+-tsubaSmonk2,,tophat / treacherytophat
 -madoBaby2,,Cauliflower / @CalefIower
 -monoeEyes,,Kikiyama & Cauliflower / @CalefIower
 -sabiBaby2,,Cauliflower / @CalefIower
@@ -260,7 +260,7 @@
 -motaFront,,Moucky2333
 -reshnFront,,Moucky2333
 -sakiFront,,Moucky2333
--tsubaFinger,,tophat
+-tsubaFinger,,tophat / treacherytophat
 -monoeFinger,,starbits
 -dracSmonk,, FlauiPuk / flaui_pukalnyj
 -minnaEggCrack,,Enna
@@ -328,3 +328,4 @@
 -uroWolfRainbow,,taechan / .angxelnet
 -uroWolfRainbow2,.webp,taechan / .angxelnet
 -minnaphus,,MichiSan / michi_exiled
+-uroCone,,tophat / treacherytophat
