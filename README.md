@@ -32,18 +32,18 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
   
 <img width="1280" height="720" alt="ezgif-374f903f3c009ed4" src="https://github.com/user-attachments/assets/1b98adf8-f2c2-4834-9b6f-18647a3de10f" />
 
-
-
 ## Contribution Guide
 
 ### Option 1: Pull Request
-1. Fork the repository by clicking the fork button
+1. Fork the [data repository](https://github.com/goobert/yno-commumoji-data/) by going there and clicking the fork button.
 2. Navigate into the `assets` folder and upload the emoji's image file.
-    - Once your submission is accepted, it will be accessible at `https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/FILE.EXT`.
+    - Once your submission is accepted, it will be accessible at `https://cdn.jsdelivr.net/gh/goobert/yno-commumoji-data/assets/FILE.EXT`.
 3. Edit the `config.csv` file to have a new entry.
-    - The format for entries in the config is `name,url`, where `name` is what will be used in chat and `url` is where the image will be loaded from.
+    - The format for entries in the config is `name,url,author`, where `name` is what will be used in chat and `url` is where the image will be loaded from.
       - The name should follow this format: :-[character][Action][VersionNumber]:. If the version number is 1, it can be omitted. For example, `-madoGrill2` and `:-penguiBall`.
       - The url should be the `jsdelivr` link from above. Other services will not be accepted due to concerns of security and availability.
+      - If the "url" part is empty, the file name is inferred from the emoji name, with the extension defaulting to `.png`.
+      - If the "url" part is starts with a dot, the file name is inferred from the emoji name with the extension being the "url" part.
 4. Create a pull request by clicking the button that shows up at the top of your fork after you have made changes.
 
 ### Option 2: Asking [@goobert](https://github.com/goobert)
@@ -65,7 +65,7 @@ For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/Acry
     - The images will be downsized using the browser's `auto` setting, which differs between browsers.
 
 # Commumoji List
-The list of commumojis grew too long and has been moved to [this online viewer](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
-[<img width="2559" height="1193" alt="2026-09-01 14_35_39-YNO Commumojis Viewer — LibreWolf" src="https://github.com/user-attachments/assets/cc45dc2c-2cf0-4495-9c7a-323692826f14" />](https://AcrylonitrileButadieneStyrene.github.io/yno-commumoji/)
+The list of commumojis grew too long and has been moved to [this online viewer](https://goobert.github.io/yno-commumoji-data/)
+[<img width="2559" height="1193" alt="2026-09-01 14_35_39-YNO Commumojis Viewer — LibreWolf" src="https://github.com/user-attachments/assets/cc45dc2c-2cf0-4495-9c7a-323692826f14" />](https://goobert.github.io/yno-commumoji-data/)
 
 

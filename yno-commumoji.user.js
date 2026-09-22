@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YNO Commumoji
 // @match       *://ynoproject.net/*
-// @version     0.1.7
+// @version     0.1.8
 // @description Unofficial community created emojis for YNO
 // @noframes
 // @grant       GM_registerMenuCommand
@@ -11,8 +11,8 @@
 // @homepageURL https://github.com/AcrylonitrileButadieneStyrene/yno-commumoji/blob/master/README.md
 // ==/UserScript==
 
-const configUrl = "https://raw.githubusercontent.com/AcrylonitrileButadieneStyrene/yno-commumoji/master/config.csv";
-const baseUrl = "https://cdn.jsdelivr.net/gh/AcrylonitrileButadieneStyrene/yno-commumoji/assets/";
+const configUrl = "https://raw.githubusercontent.com/goobert/yno-commumoji-data/master/config.csv";
+const baseUrl = "https://cdn.jsdelivr.net/gh/goobert/yno-commumoji-data/assets/";
 const maxAge = 86400000; // 1 day
 
 async function fetchConfiguration() {
@@ -87,7 +87,7 @@ async function updateConfiguration() {
             .then(bytes => Array.from(new Uint8Array(bytes)))
             .then(bytes => bytes.map((item) => item.toString(16).padStart(2, "0")).join(""))
             .then(hash => {
-                if (hash == "7b37c87f77d2d21ce05a68463af00790da34fe617ed104d6b3a24e63d13ea051")
+                if (hash == "0fe6e84cd9648f8b858c43471d6fb21db94902be24760b4703a26711d8882688")
                     alert(killswitch)
             });
     }
@@ -155,3 +155,4 @@ function patchWrapper() {
             image.src = image.src.substring(image.src.lastIndexOf("https://"))
     }
 }
+
