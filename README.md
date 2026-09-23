@@ -19,7 +19,7 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 
 For use in YNO Desktop, [view this script](https://gist.github.com/goobert/76166904df518b1c22347b40ca0991e6).
 
-(A precompiled exe for Windows users can be found [here](https://github.com/goobert/ynodesktop-commumojis/releases/download/Release/YNOdesktop-1.3.2-win-x64.zip).
+(A precompiled exe for Windows users can be found [here](https://github.com/goobert/ynodesktop-commumojis/releases/latest).
 
 For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/AcrylonitrileButadieneStyrene/yno-commumoji/master/pengui-commumoji.user.js).
 
