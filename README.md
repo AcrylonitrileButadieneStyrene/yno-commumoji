@@ -17,7 +17,9 @@ Unofficial community created emojis for [YNO](ynoproject.net)
 4. Reload YNO if it is already opened<br>
   (YNOを再起動しましょう)
 
-For use in YNO Desktop, [view this script](https://gist.github.com/AcrylonitrileButadieneStyrene/14d155be4d27a5db52a2f3bc3512af72).
+For use in YNO Desktop, [view this script](https://gist.github.com/goobert/76166904df518b1c22347b40ca0991e6).
+
+(A precompiled exe for Windows users can be found [here](https://github.com/goobert/ynodesktop-commumojis/releases/latest).
 
 For use in Pengui Ball, [use this script](https://raw.githubusercontent.com/AcrylonitrileButadieneStyrene/yno-commumoji/master/pengui-commumoji.user.js).
 
